@@ -19,7 +19,6 @@ body {
 .cabecera {
     margin: 20px;
     display: flex;
-    text-align: start;
     justify-content: space-between;
     
 }
